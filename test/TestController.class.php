@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * Created by PhpStorm.
  * User: Administrator
@@ -31,3 +31,5 @@ class TestController extends H5Controller {
         var_dump($res);
     }
 }
+
+测试测试
